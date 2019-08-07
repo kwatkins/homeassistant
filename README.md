@@ -1,8 +1,10 @@
 
 <div align="center">
+    <figure>
         <div>
-            <img src="www/screenshots/home.png" alt="Home" title="Home">
+            <img src="www/screenshots/home.png" alt="Home" title="Home" width="500">
         </div>
+    </figure>
 </div>
 
 ### Goals 
@@ -16,12 +18,13 @@
 - **[OpenGarage](https://opengarage.io/)** <sup>[WiFi]</sup> to control and monitor garage door 
 
 
-### Cameras
-- **Arlo Ultra 4K UHD Security System** <sup>[WiFi]</sup> (x2)
+### Cameras <sup>[WiFi]</sup>
+- **Arlo Ultra 4K UHD Security System** (x2)
+- **Arlo Baby** 
 - **WyzeCam v2**
 
-### Speakers and Entertainment Systems 
-- **Google Nest Hub** <sup>[WiFi]</sup> (x2) for displays 
+### Speakers and Entertainment Systems <sup>[WiFi]</sup>
+- **Google Nest Hub** (x2) for displays 
 - **Google Home**  
 - **Google Home Max**
 - **JBL Link 500**  
