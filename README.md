@@ -2,7 +2,7 @@
 <div align="center">
     <figure>
         <div>
-            <img src="www/screenshots/home.png" alt="Home" title="Home" width="500">
+            <img src="www/screenshots/home.png" alt="Home" title="Home" width="700">
         </div>
     </figure>
 </div>
