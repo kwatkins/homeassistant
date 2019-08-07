@@ -1,23 +1,18 @@
 
 <div align="center">
-    <figure>
         <div>
-            <img src="www/screenshots/home.png" alt="Home" title="Home" width="200">
+            <img src="www/screenshots/home.png" alt="Home" title="Home">
         </div>
-    </figure>
 </div>
 
-### Goals ⚽
-
-### General information 🛎
-
-### Systems and bridges 🌉
+### Goals 
+- **Full home automation with wife acceptance**
 
 ### Climate control 🌡
 - **Lyric Thermostat** <sup>[WiFi]</sup> 
 
 ### Locks and Garage 👮
-- **Schlage BE469 Touchscreen Deadbolt** <sup>[Z-Wave]</sup> (x2) for front/back door locks 
+- **Schlage BE469 Touchscreen Deadbolt** <sup>[Z-Wave]</sup> (x2) front/back door locks and sounds alarm if forced entry
 - **[OpenGarage](https://opengarage.io/)** <sup>[WiFi]</sup> to control and monitor garage door 
 
 
@@ -55,8 +50,6 @@
 
 #### Human interfaces 🕹️
 - **[Aeotec ZW130 WallMote Quad](https://www.youtube.com/watch?v=5Vc1Ift7ND8)** <sup>[Z-Wave]</sup> remote control.
-
-### Software 💻
 
 
 
