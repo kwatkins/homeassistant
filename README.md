@@ -7,8 +7,14 @@
     </figure>
 </div>
 
+Read my latest home automation adventures at **[Homepants Adventures in Home Automation](https://docs.google.com/document/d/1an2jVSSL7772mU4Qr8294ZOcDxZYYJWXSviaB68ECYs/edit?usp=sharing) e-book
+
+
 ### Goals 
 - **Full home automation with wife acceptance**
+
+### [Automations](https://automations.yaml)
+
 
 ### Climate control 🌡
 - **Lyric Thermostat** <sup>[WiFi]</sup> 
@@ -23,7 +29,7 @@
 - **WyzeCam v2**
 
 ### Speakers and Entertainment Systems 
-- **Google Nest Hub** (x2) for displays 
+- **Google Nest Hub** (x2) for displays that also stream the UI w/ the new home assistant casting feature 
 - **Google Home**  
 - **Google Home Max**
 - **JBL Link 500**  
@@ -39,6 +45,7 @@
 
 ### Light Bulbs
 - **LIFX Mini White** <sup>[WiFi]</sup>
+- **[LED Edison Buble Dimmable](https://www.amazon.com/gp/product/B07D49R3KT)** only LED bulbs with a solid dim range otherwise best to use incandescent 
 
 ### Sensors 📡
 - **FIBARO System FGMS001-ZW5 Motion Sensor** <sup>[Z-Wave]</sup>
